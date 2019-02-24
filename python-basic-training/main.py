@@ -1,0 +1,37 @@
+# Python Basic Training
+
+from pub import Pub as pubObj
+from exercises_sequential import SequentialExercises as ex_sequential
+from exercises_decision import DecisionExercises as ex_decision
+    
+#pubObj.pub_age_control()
+#ex_sequential.ask_number()
+#ex_sequential.sum_numbers()
+#ex_sequential.grades_average()
+#ex_sequential.meter_to_centimeter()
+#ex_sequential.circle_area()
+#ex_sequential.square_area()
+#ex_sequential.monthly_salary()
+#ex_sequential.fahrenheit_to_celsius()
+#ex_sequential.celsius_to_fahrenheit()
+#ex_sequential.int_numbers_real_number()
+#ex_sequential.ideal_weight()
+#ex_sequential.ideal_weight_gender()
+#ex_sequential.fish_weight()
+#ex_sequential.monthly_salary_advanced()
+#ex_sequential.house_painting()
+#ex_sequential.house_painting_advanced()
+#ex_sequential.download_archive()
+#ex_decision.numbers_comparator()
+#ex_decision.positive_negative()
+#ex_decision.what_is_the_number()
+#ex_decision.numbers_sum()
+#ex_decision.feminine_masculine()
+#ex_decision.vowel_consonant()
+#ex_decision.vowel_consonant()
+#ex_decision.grades_student()
+#ex_decision.great_number()
+#ex_decision.great_minor()
+#ex_decision.minor_price()
+#ex_decision.desc() 
+ex_decision.period()
